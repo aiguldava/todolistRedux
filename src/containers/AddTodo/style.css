@@ -1,0 +1,27 @@
+button{
+    width: 95px;
+    height: 34px;
+    font-size: 16px;
+    font-weight: 600;
+
+}
+.input{
+    width: 250px;
+    height: 30px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: Georgia, serif;
+
+}
+span{
+    font-size: 23px;
+    font-weight: 600;
+    font-family: Georgia, serif;
+
+}
+li{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Georgia, serif;
+
+}
